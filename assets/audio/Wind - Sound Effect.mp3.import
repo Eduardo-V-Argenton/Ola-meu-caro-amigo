@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ddxiia1p4altj"
+path="res://.godot/imported/Wind - Sound Effect.mp3-5b823d1ed30b2dbac3cfa3eea5818c65.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/Wind - Sound Effect.mp3"
+dest_files=["res://.godot/imported/Wind - Sound Effect.mp3-5b823d1ed30b2dbac3cfa3eea5818c65.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
