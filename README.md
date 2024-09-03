@@ -4,6 +4,8 @@ Jogo desenvolvido para a disciplina de Computação gráfica
 O “jogo” foi feito utilizando a engine godot na versão 4.1.3. A escolha dessa engine foi devido ao fato dela ser uma boa engine para games em pixel art e é muito fácil de utilizar.
 Ola, meu caro amigo é uma experiência audiovisual sobre um gato em um bosque indo visitar uma lápide. O jogador deve apenas apreciar o cenário e música, uma vez que não tem um objetivo pode ser contraditório chamá-lo de jogo. 
 A mensagem que o jogo quer passar é subjetiva para cada pessoa, aprecie a obra com calma e reflita sobre oque vier à mente.
+![Image 1](images/image_1.png)
+![Image 2](images/image_2.png)
 
 ## Jogabilidade
 O jogo começa com o gato no meio do bosque, o jogador pode usar as teclas AWSD ou as setas do teclado para se movimentar, além disso ao apertar SPACE o gato mia. (OBS: O player só consegue se mover 1 direção por vez)
